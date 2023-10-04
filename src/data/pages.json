@@ -1,0 +1,6217 @@
+[
+  {
+    "object": "page",
+    "id": "30c0c3ff-265e-4d09-9e58-f21361e5200d",
+    "created_time": "2021-10-20T13:05:00.000Z",
+    "last_edited_time": "2023-10-04T21:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": {
+      "type": "file",
+      "file": {
+        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b06f6fe2-f17f-4ae1-a26b-3b4060d9d559/Captura_de_Tela_2021-10-20_as_10.19.53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=4156e236cedb3a0bb0328f8a2c9306957e95841ea36df9c2d28ccd8d827e59d6&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "expiry_time": "2023-10-04T22:36:12.584Z"
+      }
+    },
+    "icon": {
+      "type": "file",
+      "file": {
+        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/243522fe-da8c-4cb7-aac6-cb52a9d822cc/Captura_de_Tela_2021-10-20_as_10.23.41.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213613Z&X-Amz-Expires=3600&X-Amz-Signature=f6fe01e2c794da347b429fcdea5982058dd981219a3dae6cdc6403648533a201&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "expiry_time": "2023-10-04T22:36:12.802Z"
+      }
+    },
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Instituto Reditus",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Instituto Reditus",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Instituto-Reditus-30c0c3ff265e4d099e58f21361e5200d",
+    "public_url": "https://instituto-reditus.notion.site/Instituto-Reditus-30c0c3ff265e4d099e58f21361e5200d"
+  },
+  {
+    "object": "page",
+    "id": "39e7332f-1692-486e-857d-eef81202773b",
+    "created_time": "2023-09-28T00:08:00.000Z",
+    "last_edited_time": "2023-09-28T00:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "afe3892a-a6e4-4e78-8cd6-78d447e3dd1d"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "afe3892a-a6e4-4e78-8cd6-78d447e3dd1d"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "page_id",
+      "page_id": "30c0c3ff-265e-4d09-9e58-f21361e5200d"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/39e7332f1692486e857deef81202773b",
+    "public_url": "https://instituto-reditus.notion.site/39e7332f1692486e857deef81202773b"
+  },
+  {
+    "object": "page",
+    "id": "8dc3c941-8c2d-4a7f-9591-e34161292b9a",
+    "created_time": "2023-09-24T22:25:00.000Z",
+    "last_edited_time": "2023-09-24T22:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "block_id",
+      "block_id": "e3c115f9-f861-48b4-b42a-a6e7092730e3"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Din\u00e2micas PEIR",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Din\u00e2micas PEIR",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Din-micas-PEIR-8dc3c9418c2d4a7f9591e34161292b9a",
+    "public_url": "https://instituto-reditus.notion.site/Din-micas-PEIR-8dc3c9418c2d4a7f9591e34161292b9a"
+  },
+  {
+    "object": "page",
+    "id": "4647b064-27c2-4ca1-b868-fea38ea93231",
+    "created_time": "2023-03-10T14:14:00.000Z",
+    "last_edited_time": "2023-09-24T22:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/checkmark_green.svg"
+      }
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "4c366b95-9903-4f4e-b86e-3468f724460a"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Como Organizar o PEIR (Checklist)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Como Organizar o PEIR (Checklist)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Como-Organizar-o-PEIR-Checklist-4647b06427c24ca1b868fea38ea93231",
+    "public_url": "https://instituto-reditus.notion.site/Como-Organizar-o-PEIR-Checklist-4647b06427c24ca1b868fea38ea93231"
+  },
+  {
+    "object": "page",
+    "id": "4c366b95-9903-4f4e-b86e-3468f724460a",
+    "created_time": "2022-01-11T00:24:00.000Z",
+    "last_edited_time": "2023-09-24T22:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\u265f\ufe0f"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "31250f25-2e04-4d53-8dd8-cf926900f93e"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Planejamento Estrat\u00e9gico (PEIR)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Planejamento Estrat\u00e9gico (PEIR)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Planejamento-Estrat-gico-PEIR-4c366b9599034f4eb86e3468f724460a",
+    "public_url": "https://instituto-reditus.notion.site/Planejamento-Estrat-gico-PEIR-4c366b9599034f4eb86e3468f724460a"
+  },
+  {
+    "object": "page",
+    "id": "94d9ba65-5b65-43a3-8130-9dc32d80042e",
+    "created_time": "2023-09-24T22:14:00.000Z",
+    "last_edited_time": "2023-09-24T22:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sim (23.2)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sim (23.2)",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gratuito",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gratuito",
+            "href": null
+          }
+        ]
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ipanema",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ipanema",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Felipe Berger (CEO Reditus)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Felipe Berger (CEO Reditus)",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Na parte interna coube 23 pessoas de forma confort\u00e1vel. Poderia ter mais gente sentando no ch\u00e3o. Na parte externa tem mais espa\u00e7o mas pode ser que fique muito quente, batendo sol.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Na parte interna coube 23 pessoas de forma confort\u00e1vel. Poderia ter mais gente sentando no ch\u00e3o. Na parte externa tem mais espa\u00e7o mas pode ser que fique muito quente, batendo sol.",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Casa do Berger",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Casa do Berger",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Casa-do-Berger-94d9ba655b6543a381309dc32d80042e",
+    "public_url": "https://instituto-reditus.notion.site/Casa-do-Berger-94d9ba655b6543a381309dc32d80042e"
+  },
+  {
+    "object": "page",
+    "id": "581ceb2f-6269-4546-843b-302ab6e4a9f8",
+    "created_time": "2023-07-18T00:28:00.000Z",
+    "last_edited_time": "2023-09-24T22:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6cf7bf91-6908-4eff-8dff-29d236230ab1"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "02be1a02-e30c-4a55-bbc9-8857e3b0e01d"
+    },
+    "archived": false,
+    "properties": {
+      "Segundo Semestre": {
+        "id": "Fyvm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "24/09 (Domingo)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "24/09 (Domingo)",
+            "href": null
+          }
+        ]
+      },
+      "Primeiro Semestre": {
+        "id": "NmD%7B",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "26/03 (Domingo)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "26/03 (Domingo)",
+            "href": null
+          }
+        ]
+      },
+      "Ano": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/2023-581ceb2f62694546843b302ab6e4a9f8",
+    "public_url": "https://instituto-reditus.notion.site/2023-581ceb2f62694546843b302ab6e4a9f8"
+  },
+  {
+    "object": "page",
+    "id": "601526a2-9c43-4ce4-9df3-7412e754ce4f",
+    "created_time": "2023-08-15T18:00:00.000Z",
+    "last_edited_time": "2023-08-15T18:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-08-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Participa\u00e7\u00e3o na semana de calouros\n\u2022 Evento de onboarding\n\u2022 Atualiza\u00e7\u00f5es da RCA\n\u2022 Apresenta\u00e7\u00e3o das novas logos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Participa\u00e7\u00e3o na semana de calouros\n\u2022 Evento de onboarding\n\u2022 Atualiza\u00e7\u00f5es da RCA\n\u2022 Apresenta\u00e7\u00e3o das novas logos",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1CfZ-aCdEgJCmM4Se8TburYkTqPYC9vxWq2xM2x6FF9c/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1CfZ-aCdEgJCmM4Se8TburYkTqPYC9vxWq2xM2x6FF9c/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "file:///C:/Users/felip/AppData/Local/Microsoft/Windows/INetCache/IE/X0AVBM5M/Apresentac%CC%A7a%CC%83oReditus_01[1].pdf",
+            "type": "external",
+            "external": {
+              "url": "file:///C:/Users/felip/AppData/Local/Microsoft/Windows/INetCache/IE/X0AVBM5M/Apresentac%CC%A7a%CC%83oReditus_01[1].pdf"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "14/08/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "14/08/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/14-08-2023-601526a29c434ce49df37412e754ce4f",
+    "public_url": "https://instituto-reditus.notion.site/14-08-2023-601526a29c434ce49df37412e754ce4f"
+  },
+  {
+    "object": "page",
+    "id": "ef506feb-8f22-4270-9eaf-fa9b7b94f6fc",
+    "created_time": "2023-08-03T04:40:00.000Z",
+    "last_edited_time": "2023-08-03T13:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-07-31",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 PEIR\n\u2022 An\u00fancio da campanha de capta\u00e7\u00e3o interna\n\u2022 Evento com Sodero",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 PEIR\n\u2022 An\u00fancio da campanha de capta\u00e7\u00e3o interna\n\u2022 Evento com Sodero",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1UscfKQtjxBhDQrMR7g_Z62sOnc62q9r5OLu-LHLc5cc/edit#heading=h.gjdgxs",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1UscfKQtjxBhDQrMR7g_Z62sOnc62q9r5OLu-LHLc5cc/edit#heading=h.gjdgxs"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "31/07/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "31/07/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/31-07-2023-ef506feb8f2242709eaffa9b7b94f6fc",
+    "public_url": "https://instituto-reditus.notion.site/31-07-2023-ef506feb8f2242709eaffa9b7b94f6fc"
+  },
+  {
+    "object": "page",
+    "id": "bb51f00a-a5f1-46e4-b83d-754f784490ca",
+    "created_time": "2023-07-31T18:50:00.000Z",
+    "last_edited_time": "2023-07-31T18:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N\u00e3o",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N\u00e3o",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Felipe Berger (CEO Reditus)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Felipe Berger (CEO Reditus)",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Berger trabalha na Visagio e a Visagio \u00e9 pr\u00f3xima do Reditus.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Berger trabalha na Visagio e a Visagio \u00e9 pr\u00f3xima do Reditus.",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Escrit\u00f3rio Visagio",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Escrit\u00f3rio Visagio",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Escrit-rio-Visagio-bb51f00aa5f146e4b83d754f784490ca",
+    "public_url": "https://instituto-reditus.notion.site/Escrit-rio-Visagio-bb51f00aa5f146e4b83d754f784490ca"
+  },
+  {
+    "object": "page",
+    "id": "72131adc-a29c-4e1f-9445-5af05bef041f",
+    "created_time": "2023-07-31T18:47:00.000Z",
+    "last_edited_time": "2023-07-31T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N\u00e3o",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N\u00e3o",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "-",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "-",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Geraldo Thomaz (CEO Vtex)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Geraldo Thomaz (CEO Vtex)",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Geraldo \u00e9 presidente do conselho do Reditus em 2023.2.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Geraldo \u00e9 presidente do conselho do Reditus em 2023.2.",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Escrit\u00f3rio VTEX",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Escrit\u00f3rio VTEX",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Escrit-rio-VTEX-72131adca29c4e1f94455af05bef041f",
+    "public_url": "https://instituto-reditus.notion.site/Escrit-rio-VTEX-72131adca29c4e1f94455af05bef041f"
+  },
+  {
+    "object": "page",
+    "id": "68611888-cb78-4b2c-a37b-3324b2c58e3a",
+    "created_time": "2023-07-19T22:42:00.000Z",
+    "last_edited_time": "2023-07-19T22:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-07-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Overview Programa de Mentoria\n\u2022 Comunica\u00e7\u00e3o UFRJ\n\u2022 Edital de Inova\u00e7\u00f5es\n    \u25e6 Evento de abertura das inscri\u00e7\u00f5es\n\u2022 Reditus Talks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Overview Programa de Mentoria\n\u2022 Comunica\u00e7\u00e3o UFRJ\n\u2022 Edital de Inova\u00e7\u00f5es\n    \u25e6 Evento de abertura das inscri\u00e7\u00f5es\n\u2022 Reditus Talks",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1VKHDyWsPLnQ3-ue6HAJDIPd4EZ9WC0l9IpKL68-nINU/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1VKHDyWsPLnQ3-ue6HAJDIPd4EZ9WC0l9IpKL68-nINU/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "17/07/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "17/07/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/17-07-2023-68611888cb784b2ca37b3324b2c58e3a",
+    "public_url": "https://instituto-reditus.notion.site/17-07-2023-68611888cb784b2ca37b3324b2c58e3a"
+  },
+  {
+    "object": "page",
+    "id": "587b485c-90b6-428d-bd2a-f9e627be945c",
+    "created_time": "2023-07-18T00:30:00.000Z",
+    "last_edited_time": "2023-07-18T01:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "02be1a02-e30c-4a55-bbc9-8857e3b0e01d"
+    },
+    "archived": false,
+    "properties": {
+      "Segundo Semestre": {
+        "id": "Fyvm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "13/06 (S\u00e1bado)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "13/06 (S\u00e1bado)",
+            "href": null
+          }
+        ]
+      },
+      "Primeiro Semestre": {
+        "id": "NmD%7B",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N/A",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N/A",
+            "href": null
+          }
+        ]
+      },
+      "Ano": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2020",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2020",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/2020-587b485c90b6428dbd2af9e627be945c",
+    "public_url": "https://instituto-reditus.notion.site/2020-587b485c90b6428dbd2af9e627be945c"
+  },
+  {
+    "object": "page",
+    "id": "0b6dba9b-1f85-4e4a-a722-2dc736ace7ba",
+    "created_time": "2023-07-18T00:58:00.000Z",
+    "last_edited_time": "2023-07-18T01:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sim (20.2)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sim (20.2)",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gratuito",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gratuito",
+            "href": null
+          }
+        ]
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Laranjeiras",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Laranjeiras",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ex-presidente Raphael Sodero",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ex-presidente Raphael Sodero",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A casa \u00e9 tamb\u00e9m uma pousada, o que ajuda a servir comida e integra\u00e7\u00e3o p\u00f3s evento. Talvez n\u00e3o possua equipamento para proje\u00e7\u00e3o de tela e evento h\u00edbrido.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A casa \u00e9 tamb\u00e9m uma pousada, o que ajuda a servir comida e integra\u00e7\u00e3o p\u00f3s evento. Talvez n\u00e3o possua equipamento para proje\u00e7\u00e3o de tela e evento h\u00edbrido.",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Casa do Sodero",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Casa do Sodero",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Casa-do-Sodero-0b6dba9b1f854e4aa7222dc736ace7ba",
+    "public_url": "https://instituto-reditus.notion.site/Casa-do-Sodero-0b6dba9b1f854e4aa7222dc736ace7ba"
+  },
+  {
+    "object": "page",
+    "id": "4c3baf80-6267-4aa0-9816-ad278df65df5",
+    "created_time": "2023-07-18T00:58:00.000Z",
+    "last_edited_time": "2023-07-18T01:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sim (22.1, 22.2, 23.1)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sim (22.1, 22.2, 23.1)",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gratuito",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gratuito",
+            "href": null
+          }
+        ]
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lagoa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lagoa",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vitor Szpiz (jur\u00eddico)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vitor Szpiz (jur\u00eddico)",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Local perfeito para eventos corporativos, infra-estrutura completa. Para comida, precisa ser algo pr\u00e1tico.Bem localizado para eventos p\u00f3s PEIR.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Local perfeito para eventos corporativos, infra-estrutura completa. Para comida, precisa ser algo pr\u00e1tico.Bem localizado para eventos p\u00f3s PEIR.",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Escrit\u00f3rio do Vitor Szpiz",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Escrit\u00f3rio do Vitor Szpiz",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Escrit-rio-do-Vitor-Szpiz-4c3baf8062674aa09816ad278df65df5",
+    "public_url": "https://instituto-reditus.notion.site/Escrit-rio-do-Vitor-Szpiz-4c3baf8062674aa09816ad278df65df5"
+  },
+  {
+    "object": "page",
+    "id": "196b4f05-08f7-41ec-99a6-ca1822473afc",
+    "created_time": "2023-07-18T01:01:00.000Z",
+    "last_edited_time": "2023-07-18T01:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N\u00e3o",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N\u00e3o",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N\u00e3o sabemos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N\u00e3o sabemos",
+            "href": null
+          }
+        ]
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ipanema",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ipanema",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "-",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "-",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "O local \u00e9 \u00f3timo para confer\u00eancias, mas precisa ir ao local entender se \u00e9 poss\u00edvel reservar",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "O local \u00e9 \u00f3timo para confer\u00eancias, mas precisa ir ao local entender se \u00e9 poss\u00edvel reservar",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Casa do Bem",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Casa do Bem",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Casa-do-Bem-196b4f0508f741ec99a6ca1822473afc",
+    "public_url": "https://instituto-reditus.notion.site/Casa-do-Bem-196b4f0508f741ec99a6ca1822473afc"
+  },
+  {
+    "object": "page",
+    "id": "40d97776-eb7c-4974-b174-6eb2c7e6d1e3",
+    "created_time": "2023-07-18T00:58:00.000Z",
+    "last_edited_time": "2023-07-18T01:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "f275667f-38ce-4301-afe3-07fb7e421e94"
+    },
+    "archived": false,
+    "properties": {
+      "J\u00e1 Fizemos PEIR?": {
+        "id": "BR%5BL",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "N\u00e3o",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "N\u00e3o",
+            "href": null
+          }
+        ]
+      },
+      "Pre\u00e7o": {
+        "id": "kuTI",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gratuito",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gratuito",
+            "href": null
+          }
+        ]
+      },
+      "Bairro": {
+        "id": "va%5Df",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ipanema",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ipanema",
+            "href": null
+          }
+        ]
+      },
+      "Contato": {
+        "id": "%7D%3E%3AW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lucas Rossi (financeiro)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lucas Rossi (financeiro)",
+            "href": null
+          }
+        ]
+      },
+      "Coment\u00e1rios": {
+        "id": "%7De%3EW",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comporta confortavelmente umas 20 pessoas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comporta confortavelmente umas 20 pessoas",
+            "href": null
+          }
+        ]
+      },
+      "Nome": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Casa do Rossi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Casa do Rossi",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Casa-do-Rossi-40d97776eb7c4974b1746eb2c7e6d1e3",
+    "public_url": "https://instituto-reditus.notion.site/Casa-do-Rossi-40d97776eb7c4974b1746eb2c7e6d1e3"
+  },
+  {
+    "object": "page",
+    "id": "23889aa0-d8de-45b4-aa73-3fe6375d4b3b",
+    "created_time": "2023-07-18T00:28:00.000Z",
+    "last_edited_time": "2023-07-18T00:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "02be1a02-e30c-4a55-bbc9-8857e3b0e01d"
+    },
+    "archived": false,
+    "properties": {
+      "Segundo Semestre": {
+        "id": "Fyvm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "01/08 (Domingo)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "01/08 (Domingo)",
+            "href": null
+          }
+        ]
+      },
+      "Primeiro Semestre": {
+        "id": "NmD%7B",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "06/02 (S\u00e1bado)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "06/02 (S\u00e1bado)",
+            "href": null
+          }
+        ]
+      },
+      "Ano": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2021",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2021",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/2021-23889aa0d8de45b4aa733fe6375d4b3b",
+    "public_url": "https://instituto-reditus.notion.site/2021-23889aa0d8de45b4aa733fe6375d4b3b"
+  },
+  {
+    "object": "page",
+    "id": "11d1fb03-fdd1-4647-8bf2-e1215bf121fc",
+    "created_time": "2023-07-18T00:28:00.000Z",
+    "last_edited_time": "2023-07-18T00:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "eee5e439-4f12-4e6b-a7b2-e3cb2f5d3362"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "02be1a02-e30c-4a55-bbc9-8857e3b0e01d"
+    },
+    "archived": false,
+    "properties": {
+      "Segundo Semestre": {
+        "id": "Fyvm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "24/09 (S\u00e1bado)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "24/09 (S\u00e1bado)",
+            "href": null
+          }
+        ]
+      },
+      "Primeiro Semestre": {
+        "id": "NmD%7B",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "13/03 (Domingo)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "13/03 (Domingo)",
+            "href": null
+          }
+        ]
+      },
+      "Ano": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/2022-11d1fb03fdd146478bf2e1215bf121fc",
+    "public_url": "https://instituto-reditus.notion.site/2022-11d1fb03fdd146478bf2e1215bf121fc"
+  },
+  {
+    "object": "page",
+    "id": "62f313ae-b367-4610-87a4-11354ed06faf",
+    "created_time": "2023-06-20T16:47:00.000Z",
+    "last_edited_time": "2023-06-20T17:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-06-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00f5es da RCA\n\u2022 Atualiza\u00e7\u00f5es da bolsa\n\u2022 Atualiza\u00e7\u00f5es da campanha de capta\u00e7\u00e3o\u00a0\n\u2022 Reportagem sobre minerva rockets",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00f5es da RCA\n\u2022 Atualiza\u00e7\u00f5es da bolsa\n\u2022 Atualiza\u00e7\u00f5es da campanha de capta\u00e7\u00e3o\u00a0\n\u2022 Reportagem sobre minerva rockets",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1w1Ilv_bbhJWdMVx6fzl7VerWNtSYcBDIRk85oH1TQVE/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1w1Ilv_bbhJWdMVx6fzl7VerWNtSYcBDIRk85oH1TQVE/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "19/06/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "19/06/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/19-06-2023-62f313aeb367461087a411354ed06faf",
+    "public_url": "https://instituto-reditus.notion.site/19-06-2023-62f313aeb367461087a411354ed06faf"
+  },
+  {
+    "object": "page",
+    "id": "6c610a21-a72e-4a9a-b890-182978e9686b",
+    "created_time": "2023-06-06T00:49:00.000Z",
+    "last_edited_time": "2023-06-06T01:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-06-05",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00f5es da bolsa\n\u2022 Campanha de capta\u00e7\u00e3o\n\u2022 Resultados da campanha de mentoria\n\u2022 Relat\u00f3rio anual",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00f5es da bolsa\n\u2022 Campanha de capta\u00e7\u00e3o\n\u2022 Resultados da campanha de mentoria\n\u2022 Relat\u00f3rio anual",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1bbrnhfhPtcYwey-kDSF_kCZ5ikgNQWKPXQZeY9S1CDU/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1bbrnhfhPtcYwey-kDSF_kCZ5ikgNQWKPXQZeY9S1CDU/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "05/06/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "05/06/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/05-06-2023-6c610a21a72e4a9ab890182978e9686b",
+    "public_url": "https://instituto-reditus.notion.site/05-06-2023-6c610a21a72e4a9ab890182978e9686b"
+  },
+  {
+    "object": "page",
+    "id": "5cc567e6-610a-4d4d-8484-197ae3dc8cce",
+    "created_time": "2023-05-24T00:34:00.000Z",
+    "last_edited_time": "2023-05-24T01:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-05-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Updates da RCA\n\u2022 Nova ferramenta de CRM com \u00eanfase nos benef\u00edcios do no code",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Updates da RCA\n\u2022 Nova ferramenta de CRM com \u00eanfase nos benef\u00edcios do no code",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1zjGcGKOzhPMmx3n4ap8NOa9z-9IDH1JPdFfIcPDB3U0/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1zjGcGKOzhPMmx3n4ap8NOa9z-9IDH1JPdFfIcPDB3U0/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1xoUpuULAxJIjPswnctl87QGdwvtEGT9upBuEUYiCMJM/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1xoUpuULAxJIjPswnctl87QGdwvtEGT9upBuEUYiCMJM/edit"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22/05/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22/05/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/22-05-2023-5cc567e6610a4d4d8484197ae3dc8cce",
+    "public_url": "https://instituto-reditus.notion.site/22-05-2023-5cc567e6610a4d4d8484197ae3dc8cce"
+  },
+  {
+    "object": "page",
+    "id": "186496a0-f9bf-4971-9e72-17e241c0a76a",
+    "created_time": "2023-05-24T00:19:00.000Z",
+    "last_edited_time": "2023-05-24T00:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-05-08",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 An\u00fancio de evento\n\u2022 Apresenta\u00e7\u00e3o dos demographics\n\u2022 Updates bolsa social",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 An\u00fancio de evento\n\u2022 Apresenta\u00e7\u00e3o dos demographics\n\u2022 Updates bolsa social",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1QWiu2heMaYSnj6mfAD_3hl4AY7SVUN0I2ubGE6_tOU4/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1QWiu2heMaYSnj6mfAD_3hl4AY7SVUN0I2ubGE6_tOU4/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "08/05/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "08/05/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/08-05-2023-186496a0f9bf49719e7217e241c0a76a",
+    "public_url": "https://instituto-reditus.notion.site/08-05-2023-186496a0f9bf49719e7217e241c0a76a"
+  },
+  {
+    "object": "page",
+    "id": "e3906f37-73e3-4b47-8881-9735aa70a963",
+    "created_time": "2023-04-11T02:41:00.000Z",
+    "last_edited_time": "2023-04-25T23:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-04-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Nova est\u00e9tica do site\n\u2022 Status da bolsa social\n\u2022 Rela\u00e7\u00e3o com a poli (evento de apresenta\u00e7\u00e3o de calouros)\n\u2022 Att da RCA\n\u2022 Evento com as conselheiras na quarta para as volunt\u00e1rias",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Nova est\u00e9tica do site\n\u2022 Status da bolsa social\n\u2022 Rela\u00e7\u00e3o com a poli (evento de apresenta\u00e7\u00e3o de calouros)\n\u2022 Att da RCA\n\u2022 Evento com as conselheiras na quarta para as volunt\u00e1rias",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1_3qkiV2Lnfj21TFdsYVwviE4PPM9vR2ZoKmAdPjxtsU/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1_3qkiV2Lnfj21TFdsYVwviE4PPM9vR2ZoKmAdPjxtsU/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "10/04/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "10/04/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/10-04-2023-e3906f3773e34b4788819735aa70a963",
+    "public_url": "https://instituto-reditus.notion.site/10-04-2023-e3906f3773e34b4788819735aa70a963"
+  },
+  {
+    "object": "page",
+    "id": "f7b73b46-27ec-48d3-88de-bc1c9ac97990",
+    "created_time": "2023-04-25T21:59:00.000Z",
+    "last_edited_time": "2023-04-25T23:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-04-24",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Resumo financeiro de 2022\n\u2022 Updates bolsa social",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Resumo financeiro de 2022\n\u2022 Updates bolsa social",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1dDPZ-fqWObK2rdhNNhEP6DLpTy3SqCn_f1m6a0eHdF0/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1dDPZ-fqWObK2rdhNNhEP6DLpTy3SqCn_f1m6a0eHdF0/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "24/04/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "24/04/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/24-04-2023-f7b73b4627ec48d388debc1c9ac97990",
+    "public_url": "https://instituto-reditus.notion.site/24-04-2023-f7b73b4627ec48d388debc1c9ac97990"
+  },
+  {
+    "object": "page",
+    "id": "d5bacf0b-113e-4fc5-93e7-399e50ec9241",
+    "created_time": "2022-03-22T17:44:00.000Z",
+    "last_edited_time": "2023-04-07T23:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "447bcb9b-dfea-480e-8cc4-5bc0007757d7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83c\udfaf"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "4c366b95-9903-4f4e-b86e-3468f724460a"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OKRs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OKRs",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/OKRs-d5bacf0b113e4fc593e7399e50ec9241",
+    "public_url": "https://instituto-reditus.notion.site/OKRs-d5bacf0b113e4fc593e7399e50ec9241"
+  },
+  {
+    "object": "page",
+    "id": "4b0a4052-3f38-4b6c-a353-142ee7216af4",
+    "created_time": "2022-02-15T13:59:00.000Z",
+    "last_edited_time": "2023-04-07T22:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbc"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "31250f25-2e04-4d53-8dd8-cf926900f93e"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reuni\u00e3o Conselho Administrativo (RCA)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reuni\u00e3o Conselho Administrativo (RCA)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Reuni-o-Conselho-Administrativo-RCA-4b0a40523f384b6ca353142ee7216af4",
+    "public_url": "https://instituto-reditus.notion.site/Reuni-o-Conselho-Administrativo-RCA-4b0a40523f384b6ca353142ee7216af4"
+  },
+  {
+    "object": "page",
+    "id": "5d9af26d-6650-41f9-9a1a-4ce400ab3f11",
+    "created_time": "2022-01-11T00:25:00.000Z",
+    "last_edited_time": "2023-04-07T22:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83e\udd1d"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "31250f25-2e04-4d53-8dd8-cf926900f93e"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reuni\u00e3o Geral (RG)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reuni\u00e3o Geral (RG)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Reuni-o-Geral-RG-5d9af26d665041f99a1a4ce400ab3f11",
+    "public_url": "https://instituto-reditus.notion.site/Reuni-o-Geral-RG-5d9af26d665041f99a1a4ce400ab3f11"
+  },
+  {
+    "object": "page",
+    "id": "7a9e434a-0a35-4bde-8381-2d85b410cf13",
+    "created_time": "2022-03-22T02:54:00.000Z",
+    "last_edited_time": "2023-04-07T22:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "447bcb9b-dfea-480e-8cc4-5bc0007757d7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83d\udc54"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "31250f25-2e04-4d53-8dd8-cf926900f93e"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reuni\u00e3o de L\u00edderes (RL)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reuni\u00e3o de L\u00edderes (RL)",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Reuni-o-de-L-deres-RL-7a9e434a0a354bde83812d85b410cf13",
+    "public_url": "https://instituto-reditus.notion.site/Reuni-o-de-L-deres-RL-7a9e434a0a354bde83812d85b410cf13"
+  },
+  {
+    "object": "page",
+    "id": "d7e85081-697b-44d3-b3a0-4de12bb8715c",
+    "created_time": "2023-03-15T15:36:00.000Z",
+    "last_edited_time": "2023-03-15T17:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-03-13",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Edital da bolsa social - avaliadores e compartilhamento\n\u2022 Atualiza\u00e7\u00e3o da RCA\n\u2022 PEIR - data, horario e pre-work",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Edital da bolsa social - avaliadores e compartilhamento\n\u2022 Atualiza\u00e7\u00e3o da RCA\n\u2022 PEIR - data, horario e pre-work",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/11cPohTQlZedIO62r1-3tW4mtxvP8DvhekT4pe7lZHgM/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/11cPohTQlZedIO62r1-3tW4mtxvP8DvhekT4pe7lZHgM/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "13/03/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "13/03/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/13-03-2023-d7e85081697b44d3b3a04de12bb8715c",
+    "public_url": "https://instituto-reditus.notion.site/13-03-2023-d7e85081697b44d3b3a04de12bb8715c"
+  },
+  {
+    "object": "page",
+    "id": "fcedc659-0672-4969-a869-e0eaca841081",
+    "created_time": "2023-03-01T00:27:00.000Z",
+    "last_edited_time": "2023-03-01T00:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-02-27",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Apresenta\u00e7\u00e3o de membros novos\n\u2022 Eventos externos do ano\n\u2022 Redes Sociais - (Mostrar Notion, workshop, pesquisa e planos pra redes sociais proximo semestre.)\n\u2022 Atualiza\u00e7\u00e3o das bolsas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Apresenta\u00e7\u00e3o de membros novos\n\u2022 Eventos externos do ano\n\u2022 Redes Sociais - (Mostrar Notion, workshop, pesquisa e planos pra redes sociais proximo semestre.)\n\u2022 Atualiza\u00e7\u00e3o das bolsas",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1fiZc8QjoLotOsktAiKMh-zomySw0Rvp2CcbwS7vfAow/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1fiZc8QjoLotOsktAiKMh-zomySw0Rvp2CcbwS7vfAow/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1XXSDiphlzNiZ4V7eNnSZcIqdTsZhLSBs/edit#slide=id.g2128409521a_2_0",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1XXSDiphlzNiZ4V7eNnSZcIqdTsZhLSBs/edit#slide=id.g2128409521a_2_0"
+            }
+          },
+          {
+            "name": "Feedback Reditus Talks.pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fdcfc64-417b-4f93-bf1f-a26c120c7c03/Feedback_Reditus_Talks.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=40b50b09b88ae980632b3cfa43f9398f9ebf177739c06d1978a95909bcf69225&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.589Z"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "27/02/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "27/02/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/27-02-2023-fcedc65906724969a869e0eaca841081",
+    "public_url": "https://instituto-reditus.notion.site/27-02-2023-fcedc65906724969a869e0eaca841081"
+  },
+  {
+    "object": "page",
+    "id": "4f12b8af-097b-4393-a33c-0540bdd1348a",
+    "created_time": "2023-01-30T23:01:00.000Z",
+    "last_edited_time": "2023-02-01T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-01-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 PCO\n\u2022 Edital de bolsas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 PCO\n\u2022 Edital de bolsas",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1sFZzRhlNSOJbFcEdFU_7T0I2irQmnEQS-FOGAYNka2o/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1sFZzRhlNSOJbFcEdFU_7T0I2irQmnEQS-FOGAYNka2o/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://drive.google.com/drive/u/2/folders/1Lt0DoOqKv5nBzKQ_Cf0eEfOlOlX3ZhPK",
+            "type": "external",
+            "external": {
+              "url": "https://drive.google.com/drive/u/2/folders/1Lt0DoOqKv5nBzKQ_Cf0eEfOlOlX3ZhPK"
+            }
+          },
+          {
+            "name": "https://docs.google.com/presentation/d/17em7YM9HVvbv8RsMN9pHKieSw_2LeBe_/edit?usp=share_link&ouid=112065308637406293332&rtpof=true&sd=true",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/17em7YM9HVvbv8RsMN9pHKieSw_2LeBe_/edit?usp=share_link&ouid=112065308637406293332&rtpof=true&sd=true"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "30/01/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "30/01/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/30-01-2023-4f12b8af097b4393a33c0540bdd1348a",
+    "public_url": "https://instituto-reditus.notion.site/30-01-2023-4f12b8af097b4393a33c0540bdd1348a"
+  },
+  {
+    "object": "page",
+    "id": "d980a066-3bf2-4471-af32-d5671a580dcc",
+    "created_time": "2023-01-17T01:16:00.000Z",
+    "last_edited_time": "2023-01-17T01:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2023-01-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Entrada dos membros novos\n\u2022 Retrospectiva\n\u2022 Recap dos grandes doadores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Entrada dos membros novos\n\u2022 Retrospectiva\n\u2022 Recap dos grandes doadores",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1wjYXWzQmQEqCsDUQCgdZPnBcpaSqZBCqnlYEujColPM/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1wjYXWzQmQEqCsDUQCgdZPnBcpaSqZBCqnlYEujColPM/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://drive.google.com/file/d/1D_4aXGazdDNDtCwPp5Llu1wYPq5xxPC9/view?usp=share_link",
+            "type": "external",
+            "external": {
+              "url": "https://drive.google.com/file/d/1D_4aXGazdDNDtCwPp5Llu1wYPq5xxPC9/view?usp=share_link"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "16/01/2023",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "16/01/2023",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/16-01-2023-d980a0663bf24471af32d5671a580dcc",
+    "public_url": "https://instituto-reditus.notion.site/16-01-2023-d980a0663bf24471af32d5671a580dcc"
+  },
+  {
+    "object": "page",
+    "id": "be10d6ce-2da3-4f3e-b5a1-9f37cfa3e4e3",
+    "created_time": "2023-01-17T01:12:00.000Z",
+    "last_edited_time": "2023-01-17T01:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-12-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Entrada dos membros novos\n\u2022 Fechamento da campanha de capta\u00e7\u00e3o\n\u2022 Capta\u00e7\u00e3o\n\u2022 Mudan\u00e7as na Lideran\u00e7a\n\u2022 Recesso + Confraterniza\u00e7\u00e3o\n\u2022 Resumo do ano de capta\u00e7\u00e3o\n\u2022 Resultado do edital (pitch day)\n\u2022 Atualiza\u00e7\u00f5es da RCA",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Entrada dos membros novos\n\u2022 Fechamento da campanha de capta\u00e7\u00e3o\n\u2022 Capta\u00e7\u00e3o\n\u2022 Mudan\u00e7as na Lideran\u00e7a\n\u2022 Recesso + Confraterniza\u00e7\u00e3o\n\u2022 Resumo do ano de capta\u00e7\u00e3o\n\u2022 Resultado do edital (pitch day)\n\u2022 Atualiza\u00e7\u00f5es da RCA",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1Dm07YbDZqUxUXZfm4ZY1MOusNbU9o0cIC4dea999uws/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1Dm07YbDZqUxUXZfm4ZY1MOusNbU9o0cIC4dea999uws/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1OXyiNclwdxTAlqLO2jSRQ5lLhz7luUsqlA8Pd0SLOjI/edit?usp=share_link",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1OXyiNclwdxTAlqLO2jSRQ5lLhz7luUsqlA8Pd0SLOjI/edit?usp=share_link"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "12/12/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "12/12/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/12-12-2022-be10d6ce2da34f3eb5a19f37cfa3e4e3",
+    "public_url": "https://instituto-reditus.notion.site/12-12-2022-be10d6ce2da34f3eb5a19f37cfa3e4e3"
+  },
+  {
+    "object": "page",
+    "id": "e057be78-0d9b-4564-86e8-ef070fa7c458",
+    "created_time": "2021-10-20T13:48:00.000Z",
+    "last_edited_time": "2022-12-06T21:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "0962039d-40b0-4967-81d6-422957d0abd7"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83d\udca1"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "be6e6653-65b9-41c0-852e-372719492901"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Princ\u00edpios de Trabalho",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Princ\u00edpios de Trabalho",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Princ-pios-de-Trabalho-e057be780d9b456486e8ef070fa7c458",
+    "public_url": "https://instituto-reditus.notion.site/Princ-pios-de-Trabalho-e057be780d9b456486e8ef070fa7c458"
+  },
+  {
+    "object": "page",
+    "id": "a3b2d6d9-68c1-4d34-9725-e2848f4ba38c",
+    "created_time": "2022-11-17T16:08:00.000Z",
+    "last_edited_time": "2022-11-30T00:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-11-29",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00e3o sobre o edital de bolsas\n\u2022 Campanha de capta\u00e7\u00e3o digital\n\u2022 Pitch day",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00e3o sobre o edital de bolsas\n\u2022 Campanha de capta\u00e7\u00e3o digital\n\u2022 Pitch day",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1zYUKNCTar8xiKNz1CXVOhurkP_PuG2LH3SzEtuXLJPI/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1zYUKNCTar8xiKNz1CXVOhurkP_PuG2LH3SzEtuXLJPI/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "29/11/22",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "29/11/22",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/29-11-22-a3b2d6d968c14d349725e2848f4ba38c",
+    "public_url": "https://instituto-reditus.notion.site/29-11-22-a3b2d6d968c14d349725e2848f4ba38c"
+  },
+  {
+    "object": "page",
+    "id": "3424933b-a93a-47da-b120-7e2bc0276edb",
+    "created_time": "2022-11-17T16:08:00.000Z",
+    "last_edited_time": "2022-11-17T16:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-10-31",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Campanha de Marketing\n\u2022 Evento de associados\n\u2022 PCO",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Campanha de Marketing\n\u2022 Evento de associados\n\u2022 PCO",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1y-b1MFqLeNN9AQbo-bzu_FNrFYeqNb3RspeuOkGjIww/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1y-b1MFqLeNN9AQbo-bzu_FNrFYeqNb3RspeuOkGjIww/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "31/10/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "31/10/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/31-10-2022-3424933ba93a47dab1207e2bc0276edb",
+    "public_url": "https://instituto-reditus.notion.site/31-10-2022-3424933ba93a47dab1207e2bc0276edb"
+  },
+  {
+    "object": "page",
+    "id": "d0fe4537-5556-4f3f-8120-68f54b589232",
+    "created_time": "2022-11-17T16:08:00.000Z",
+    "last_edited_time": "2022-11-17T16:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-10-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Apresenta\u00e7\u00e3o Novos Membros\n\u2022 Atualiza\u00e7\u00e3o RCA\n\u2022 Recados de Gente\u00a0\n\u2022 Reformula\u00e7\u00e3o do site",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Apresenta\u00e7\u00e3o Novos Membros\n\u2022 Atualiza\u00e7\u00e3o RCA\n\u2022 Recados de Gente\u00a0\n\u2022 Reformula\u00e7\u00e3o do site",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/19pwk7I9IfGicTUWAfGmA9PrDd8wv-TdR877BErdvGcc/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/19pwk7I9IfGicTUWAfGmA9PrDd8wv-TdR877BErdvGcc/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1xAb4PmNyM7YGZznnPwQXOvCwZQhANNwIDbQH6jqrFMY/edit?usp=share_link",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1xAb4PmNyM7YGZznnPwQXOvCwZQhANNwIDbQH6jqrFMY/edit?usp=share_link"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "17/10/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "17/10/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/17-10-2022-d0fe453755564f3f812068f54b589232",
+    "public_url": "https://instituto-reditus.notion.site/17-10-2022-d0fe453755564f3f812068f54b589232"
+  },
+  {
+    "object": "page",
+    "id": "1560ce10-66bb-4c7b-a7f5-61212a60c450",
+    "created_time": "2022-11-17T16:08:00.000Z",
+    "last_edited_time": "2022-11-17T16:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-10-04",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Relat\u00f3rio Avalia\u00e7\u00e3o de Desempenho\n\u2022 Campanha de capta\u00e7\u00e3o\n\u2022 Novos Associados",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Relat\u00f3rio Avalia\u00e7\u00e3o de Desempenho\n\u2022 Campanha de capta\u00e7\u00e3o\n\u2022 Novos Associados",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1hvNQpRC5jfvYbiQZEzu8a9FlU6BPyuS0s3Ohu-x6Jao/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1hvNQpRC5jfvYbiQZEzu8a9FlU6BPyuS0s3Ohu-x6Jao/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "04/10/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "04/10/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/04-10-2022-1560ce1066bb4c7ba7f561212a60c450",
+    "public_url": "https://instituto-reditus.notion.site/04-10-2022-1560ce1066bb4c7ba7f561212a60c450"
+  },
+  {
+    "object": "page",
+    "id": "d0f62f60-087a-41e2-94a5-fd1e7a0a2a02",
+    "created_time": "2022-11-17T16:06:00.000Z",
+    "last_edited_time": "2022-11-17T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-08-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Mail Marketing\n\u2022 Recrutamento\n\u2022 PEIR\n\u2022 Pesquisa de Pulso",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Mail Marketing\n\u2022 Recrutamento\n\u2022 PEIR\n\u2022 Pesquisa de Pulso",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/142S8Mrnl-JhFr_3uGQKFjAmH6DBf29ht7F-rU5MfJIY/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/142S8Mrnl-JhFr_3uGQKFjAmH6DBf29ht7F-rU5MfJIY/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22/08/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22/08/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/22-08-2022-d0f62f60087a41e294a5fd1e7a0a2a02",
+    "public_url": "https://instituto-reditus.notion.site/22-08-2022-d0f62f60087a41e294a5fd1e7a0a2a02"
+  },
+  {
+    "object": "page",
+    "id": "a9af585c-cbb8-42c4-8eb1-e9bd980f0f5c",
+    "created_time": "2022-11-17T16:06:00.000Z",
+    "last_edited_time": "2022-11-17T16:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-08-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00e3o Time de Diversidade\n\u2022 An\u00fancio PEIR\n\u2022 Update RCA\n    \u25e6 i) Edital de Inova\u00e7\u00e3o\n    \u25e6 ii) Or\u00e7amento\n    \u25e6 iii) Reditus Talk",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00e3o Time de Diversidade\n\u2022 An\u00fancio PEIR\n\u2022 Update RCA\n    \u25e6 i) Edital de Inova\u00e7\u00e3o\n    \u25e6 ii) Or\u00e7amento\n    \u25e6 iii) Reditus Talk",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/15LVgSnJU2N-orUOhrSHEbL5mqYQtzMRH9wrX7rQyVnk/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/15LVgSnJU2N-orUOhrSHEbL5mqYQtzMRH9wrX7rQyVnk/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "10/08/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "10/08/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/10-08-2022-a9af585ccbb842c48eb1e9bd980f0f5c",
+    "public_url": "https://instituto-reditus.notion.site/10-08-2022-a9af585ccbb842c48eb1e9bd980f0f5c"
+  },
+  {
+    "object": "page",
+    "id": "9bfef3f2-9fb7-4e86-8e87-5704f2871af9",
+    "created_time": "2022-11-17T16:02:00.000Z",
+    "last_edited_time": "2022-11-17T16:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-07-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Recado de Doa\u00e7\u00f5es conseguidas \n\u2022 Atualiza\u00e7\u00e3o de Comunica\u00e7\u00e3o (Relat\u00f3rio Trimestral e Blog) \n\u2022 Av. de Desempenho ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Recado de Doa\u00e7\u00f5es conseguidas \n\u2022 Atualiza\u00e7\u00e3o de Comunica\u00e7\u00e3o (Relat\u00f3rio Trimestral e Blog) \n\u2022 Av. de Desempenho ",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1HBcB_nyNw8aRhCT1iLcdGp0h2cjds3oHfm95FQLTkBk/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1HBcB_nyNw8aRhCT1iLcdGp0h2cjds3oHfm95FQLTkBk/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "25/07/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "25/07/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/25-07-2022-9bfef3f29fb74e868e875704f2871af9",
+    "public_url": "https://instituto-reditus.notion.site/25-07-2022-9bfef3f29fb74e868e875704f2871af9"
+  },
+  {
+    "object": "page",
+    "id": "3697daea-2dd2-4512-8301-539c717bac7e",
+    "created_time": "2022-10-23T20:53:00.000Z",
+    "last_edited_time": "2022-11-17T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-07-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Status da Campanha\n\u2022 Novos Projetos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Status da Campanha\n\u2022 Novos Projetos",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/18EkzA_eR05RLYtlPquMyvOmtdZ6gSoVwmgQSmhoA9RU/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/18EkzA_eR05RLYtlPquMyvOmtdZ6gSoVwmgQSmhoA9RU/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "12/07/22",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "12/07/22",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/12-07-22-3697daea2dd245128301539c717bac7e",
+    "public_url": "https://instituto-reditus.notion.site/12-07-22-3697daea2dd245128301539c717bac7e"
+  },
+  {
+    "object": "page",
+    "id": "b48776a1-9db4-4985-a8cf-86aa7139a627",
+    "created_time": "2022-11-17T00:07:00.000Z",
+    "last_edited_time": "2022-11-17T00:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-11-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00f5es da campanha de capta\u00e7\u00e3o de Novembro\n\u2022 Nova p\u00e1gina de governan\u00e7a + Relat\u00f3rio Trimestral\n\u2022 Atualiza\u00e7\u00f5es sobre o Edital de Inova\u00e7\u00e3o\n\u2022 Recados Finais",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00f5es da campanha de capta\u00e7\u00e3o de Novembro\n\u2022 Nova p\u00e1gina de governan\u00e7a + Relat\u00f3rio Trimestral\n\u2022 Atualiza\u00e7\u00f5es sobre o Edital de Inova\u00e7\u00e3o\n\u2022 Recados Finais",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1OXSEFe9flj131CjGvaDatf9Qa4HRxTI7y67mKsIJKnM/edit#",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1OXSEFe9flj131CjGvaDatf9Qa4HRxTI7y67mKsIJKnM/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1CT71C_-0Y6TS5BXn-T73O_NNes8LUyhq/edit?usp=share_link&ouid=113679888998851190626&rtpof=true&sd=true",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1CT71C_-0Y6TS5BXn-T73O_NNes8LUyhq/edit?usp=share_link&ouid=113679888998851190626&rtpof=true&sd=true"
+            }
+          },
+          {
+            "name": "https://docs.google.com/presentation/d/1-tkun5Yp9FYbnFxNv1wQUZRW58I3xaWZfVTU4uTzj08/edit?usp=share_link",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1-tkun5Yp9FYbnFxNv1wQUZRW58I3xaWZfVTU4uTzj08/edit?usp=share_link"
+            }
+          },
+          {
+            "name": "https://www.reditus.org.br/governan\u00e7a",
+            "type": "external",
+            "external": {
+              "url": "https://www.reditus.org.br/governan\u00e7a"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "16/11/22",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "16/11/22",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/16-11-22-b48776a19db44985a8cf86aa7139a627",
+    "public_url": "https://instituto-reditus.notion.site/16-11-22-b48776a19db44985a8cf86aa7139a627"
+  },
+  {
+    "object": "page",
+    "id": "cf64c7c5-07c6-4be5-9d13-ae805709ba3b",
+    "created_time": "2022-10-23T20:51:00.000Z",
+    "last_edited_time": "2022-10-24T22:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "947d8579-7ed3-4f31-b081-c857a7bee1f0"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-06-27",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Benchmark com a funda\u00e7\u00e3o (Capta\u00e7\u00e3o Personalizada)\n\u2022 Update sobre programa de mentoria",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Benchmark com a funda\u00e7\u00e3o (Capta\u00e7\u00e3o Personalizada)\n\u2022 Update sobre programa de mentoria",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1d_hAblHj2iG6kotW8UMHTr5TeMxRnMhe8e-Km_eS5e0/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1d_hAblHj2iG6kotW8UMHTr5TeMxRnMhe8e-Km_eS5e0/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "27/06/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "27/06/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/27-06-2022-cf64c7c507c64be59d13ae805709ba3b",
+    "public_url": "https://instituto-reditus.notion.site/27-06-2022-cf64c7c507c64be59d13ae805709ba3b"
+  },
+  {
+    "object": "page",
+    "id": "a3501451-8eeb-4d08-a901-2e550cd81c85",
+    "created_time": "2022-06-20T22:41:00.000Z",
+    "last_edited_time": "2022-06-20T22:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-06-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Pesquisa de Pulso_v2.pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fbb381c5-43ad-4a87-a1b7-e2405f8defba/Pesquisa_de_Pulso_v2.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=131436c8b7bb5edaf4d00fc160acfc1f3638eb0286636e60a94bde8f8beda4fd&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.582Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Atualiza\u00e7\u00e3o da equipe de Acompanhamento\n\u2022 Estrutura\u00e7\u00e3o da Pesquisa de Pulso\u00a0\n\u2022 Atualiza\u00e7\u00e3o da RCA",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Atualiza\u00e7\u00e3o da equipe de Acompanhamento\n\u2022 Estrutura\u00e7\u00e3o da Pesquisa de Pulso\u00a0\n\u2022 Atualiza\u00e7\u00e3o da RCA",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1kVIB-OqQE1hrhE2bBC3T9-4WkRMVT5UvNcL_4LpyP6E/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1kVIB-OqQE1hrhE2bBC3T9-4WkRMVT5UvNcL_4LpyP6E/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "14/06/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "14/06/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/14-06-2022-a35014518eeb4d08a9012e550cd81c85",
+    "public_url": "https://instituto-reditus.notion.site/14-06-2022-a35014518eeb4d08a9012e550cd81c85"
+  },
+  {
+    "object": "page",
+    "id": "509ef527-3baa-4533-bff4-4c0d4b6e52bc",
+    "created_time": "2022-06-20T22:40:00.000Z",
+    "last_edited_time": "2022-06-20T22:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-05-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Apresenta\u00e7\u00e3o do Notion\n\u2022 Rodar pesquisa modelo RG\n\u2022 Campanha de Capta\u00e7\u00e3o",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Apresenta\u00e7\u00e3o do Notion\n\u2022 Rodar pesquisa modelo RG\n\u2022 Campanha de Capta\u00e7\u00e3o",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1-X8TyRkR1svbz19aMpA6nOLYGSbKwpkVXutAcUwbEco/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1-X8TyRkR1svbz19aMpA6nOLYGSbKwpkVXutAcUwbEco/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "30/05/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "30/05/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/30-05-2022-509ef5273baa4533bff44c0d4b6e52bc",
+    "public_url": "https://instituto-reditus.notion.site/30-05-2022-509ef5273baa4533bff44c0d4b6e52bc"
+  },
+  {
+    "object": "page",
+    "id": "2b7136ee-806d-4cd1-a28c-2d3093883898",
+    "created_time": "2022-06-20T22:39:00.000Z",
+    "last_edited_time": "2022-06-20T22:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-05-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Convidado: Rafael Clemente",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Convidado: Rafael Clemente",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/17XAuSCz9CZs4wD75BTyFNmrKOq6KPuBBU3EvYRD9lpk/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/17XAuSCz9CZs4wD75BTyFNmrKOq6KPuBBU3EvYRD9lpk/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "17/05/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "17/05/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/17-05-2022-2b7136ee806d4cd1a28c2d3093883898",
+    "public_url": "https://instituto-reditus.notion.site/17-05-2022-2b7136ee806d4cd1a28c2d3093883898"
+  },
+  {
+    "object": "page",
+    "id": "461c0de2-10e9-44f8-b6b8-fc79dabce7f2",
+    "created_time": "2022-06-20T22:38:00.000Z",
+    "last_edited_time": "2022-06-20T22:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-05-02",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2022 Relat\u00f3rio Trimestral\u00a0\n\u2022 Brainstorming de ideias pro leil\u00e3o do Reditus",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2022 Relat\u00f3rio Trimestral\u00a0\n\u2022 Brainstorming de ideias pro leil\u00e3o do Reditus",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/1he5MYfkH_1VSefZsUSaPmbBiTahIeyXmoX05ffbESko/edit",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1he5MYfkH_1VSefZsUSaPmbBiTahIeyXmoX05ffbESko/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "02/05/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "02/05/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/02-05-2022-461c0de210e944f8b6b8fc79dabce7f2",
+    "public_url": "https://instituto-reditus.notion.site/02-05-2022-461c0de210e944f8b6b8fc79dabce7f2"
+  },
+  {
+    "object": "page",
+    "id": "26d96bde-c1d3-4c86-a10a-60bd8a40230a",
+    "created_time": "2022-03-09T00:22:00.000Z",
+    "last_edited_time": "2022-05-31T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "1919efa1-b034-4f59-9ec0-f18668fdc685"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83d\udcca"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "be6e6653-65b9-41c0-852e-372719492901"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dashboards",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dashboards",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Dashboards-26d96bdec1d34c86a10a60bd8a40230a",
+    "public_url": "https://instituto-reditus.notion.site/Dashboards-26d96bdec1d34c86a10a60bd8a40230a"
+  },
+  {
+    "object": "page",
+    "id": "dce4edc0-3ff6-4a2e-80e9-9bc0e4f4d6ac",
+    "created_time": "2021-10-20T13:34:00.000Z",
+    "last_edited_time": "2022-05-26T13:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "1919efa1-b034-4f59-9ec0-f18668fdc685"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\u265f\ufe0f"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "8876a900-8cf6-4e61-83ea-034381b16e07"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Miss\u00e3o, Vis\u00e3o e Valores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Miss\u00e3o, Vis\u00e3o e Valores",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Miss-o-Vis-o-e-Valores-dce4edc03ff64a2e80e99bc0e4f4d6ac",
+    "public_url": "https://instituto-reditus.notion.site/Miss-o-Vis-o-e-Valores-dce4edc03ff64a2e80e99bc0e4f4d6ac"
+  },
+  {
+    "object": "page",
+    "id": "6d5d566a-8f79-40df-8ef7-9cff84047fe5",
+    "created_time": "2021-10-20T14:04:00.000Z",
+    "last_edited_time": "2022-05-03T12:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "103cc66d-2649-44ff-ab42-f5986e33af32"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\u2699\ufe0f"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "be6e6653-65b9-41c0-852e-372719492901"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ferramentas",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ferramentas",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Ferramentas-6d5d566a8f7940df8ef79cff84047fe5",
+    "public_url": "https://instituto-reditus.notion.site/Ferramentas-6d5d566a8f7940df8ef79cff84047fe5"
+  },
+  {
+    "object": "page",
+    "id": "945adeef-c90c-4592-95c3-8bdf8e53845d",
+    "created_time": "2022-04-20T01:13:00.000Z",
+    "last_edited_time": "2022-04-20T01:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-04-19",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Lancamento Relatorio de Transparencia 2021 (1).pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20c85055-91a8-4d50-998e-2f06636d4b2d/Lancamento_Relatorio_de_Transparencia_2021_%281%29.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=2be5ff6117743125e7be809cfb0ef2be000688933adf05ca19755b1ed38b1be2&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.583Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Hor\u00e1rio da RG;\n- Update do CA;\n- VTEX Day;\n- Resultado da Campanha de Transpar\u00eancia",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Hor\u00e1rio da RG;\n- Update do CA;\n- VTEX Day;\n- Resultado da Campanha de Transpar\u00eancia",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/document/d/17-lbRTXCQl7ztt7VnX97w5HbEuQny1I1RXcRam6UJas/edit?pli=1",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/17-lbRTXCQl7ztt7VnX97w5HbEuQny1I1RXcRam6UJas/edit?pli=1"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "04.19 [Apresenta\u00e7\u00e3o RG].pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7c4dcb91-f734-47f2-9dce-9271ab4c112e/04.19_Apresentao_RG.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213613Z&X-Amz-Expires=3600&X-Amz-Signature=55908144d02e508c78c8bc236acf49dc9d686dbabe21b1fd36ed03e21dcfff18&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.817Z"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "19/04/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "19/04/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/19-04-2022-945adeefc90c459295c38bdf8e53845d",
+    "public_url": "https://instituto-reditus.notion.site/19-04-2022-945adeefc90c459295c38bdf8e53845d"
+  },
+  {
+    "object": "page",
+    "id": "5fae248d-0fea-434e-8846-b59c2d547c8b",
+    "created_time": "2022-04-06T23:24:00.000Z",
+    "last_edited_time": "2022-04-06T23:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-04-06",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Relatorio de Transparencia.pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c61fd2ba-1a1e-4fc3-bba5-3dbf7a9d3b5a/Lancamento_Relatorio_de_Transparencia_2021.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=0ae03348b03eb59d4cb2d9ba896c2f099c8847769a3942db59776ccb5a0c1ec3&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.582Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Relat\u00f3rio de transpar\u00eancia\n- Programa de tutoria",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Relat\u00f3rio de transpar\u00eancia\n- Programa de tutoria",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "06/04/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1lSK1THdA6maGLyFCKJ7upIqiRRVEmwFVCznclxMBoeY/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1G61chIWn_4Z-nsQ0Uk5YF0rR8bD1AuyYqf2NIOHjEZQ/edit#slide=id.g11977e22d62_0_299",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1G61chIWn_4Z-nsQ0Uk5YF0rR8bD1AuyYqf2NIOHjEZQ/edit#slide=id.g11977e22d62_0_299"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "06/04/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "06/04/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/06-04-2022-5fae248d0fea434e8846b59c2d547c8b",
+    "public_url": "https://instituto-reditus.notion.site/06-04-2022-5fae248d0fea434e8846b59c2d547c8b"
+  },
+  {
+    "object": "page",
+    "id": "dc862994-7e66-4b84-b5ed-0a40b796044b",
+    "created_time": "2022-03-22T02:59:00.000Z",
+    "last_edited_time": "2022-03-23T01:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "447bcb9b-dfea-480e-8cc4-5bc0007757d7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-03-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Novos Projetos.pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/18a8488d-4e73-46f2-9974-563f9c6db803/20220315_Novos_Projetos_v4_slides_1-5.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=67c37617ed92c614c0b8f95f67f7f3d359ce06997d18e5b37707755630ec6b01&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.583Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Atualiza\u00e7\u00e3o RCA\n- Novos Projetos\n- Time de Gest\u00e3o apresentando o Notion",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Atualiza\u00e7\u00e3o RCA\n- Novos Projetos\n- Time de Gest\u00e3o apresentando o Notion",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "22/03/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1wz9nbVOczmy7BZ_Wg3i_89VIyrAQVJR3bM18YepkZrs/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1KPCo-tCKI_zMqLacnBa3Nq5k0e_N4a7ArEv1NztVvdE/edit#slide=id.g11977e22d62_0_299",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1KPCo-tCKI_zMqLacnBa3Nq5k0e_N4a7ArEv1NztVvdE/edit#slide=id.g11977e22d62_0_299"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22/03/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22/03/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/22-03-2022-dc8629947e664b84b5ed0a40b796044b",
+    "public_url": "https://instituto-reditus.notion.site/22-03-2022-dc8629947e664b84b5ed0a40b796044b"
+  },
+  {
+    "object": "page",
+    "id": "f03071d1-8185-4ff6-bd42-d3bb799e9bf6",
+    "created_time": "2022-01-11T00:27:00.000Z",
+    "last_edited_time": "2022-03-22T20:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-01-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "PID.pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/09a41fe4-2e1a-43bd-bfb8-1718d3eb990a/Resultado_PID.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=2c81b6f94315eceef36e7f98f688b273a47a9a574d81ac0a7561d5ed0b1cefb7&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.582Z"
+            }
+          },
+          {
+            "name": "Material Anti-Ass\u00e9dio.pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5a0711ea-ef91-4afa-9fbf-01a193b5c2b5/Material_Anti-Assdio.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213613Z&X-Amz-Expires=3600&X-Amz-Signature=a05d97e0f5de70d15b82a4a0491d4d95483bb7641d3395109e5b02be313ef668&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.809Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Pesquisa de Comunica\u00e7\u00e3o\n- Pesquisa de Quem j\u00e1 beneficiamos\n- Material Anti-Ass\u00e9dio\n- PEIR",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Pesquisa de Comunica\u00e7\u00e3o\n- Pesquisa de Quem j\u00e1 beneficiamos\n- Material Anti-Ass\u00e9dio\n- PEIR",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "12/01/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1daqrPaNhoUhFlR8Z5JslgqSYW3xWOqQ0_Q2MFd6j2VY/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1lqTwD3lLPgp6WxxtexPaJL-qTRBvdpZumhQsUfc0WkI/edit#slide=id.p1",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1lqTwD3lLPgp6WxxtexPaJL-qTRBvdpZumhQsUfc0WkI/edit#slide=id.p1"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "12/01/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "12/01/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/12-01-2022-f03071d181854ff6bd42d3bb799e9bf6",
+    "public_url": "https://instituto-reditus.notion.site/12-01-2022-f03071d181854ff6bd42d3bb799e9bf6"
+  },
+  {
+    "object": "page",
+    "id": "1cc5d459-8c1d-4973-b9c0-b694843ae035",
+    "created_time": "2022-01-12T14:59:00.000Z",
+    "last_edited_time": "2022-03-22T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-01-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Campanha Digital de Dezembro (RG).pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b9ec1d3-7faa-498e-851d-93e89f5ac985/Resultados_Campanha_Digital_Dezembro_%28RG%29.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=90bc703092780c9a6965d7e91ecf56a0313c120c597270bd2cfe399e0bf3191e&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.583Z"
+            }
+          },
+          {
+            "name": "PCO 2021.2.pptx",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c072bfbc-9c95-4b6b-acf6-720fb959fcb7/20210123_-_PCO_IR_2021.2.pptx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213613Z&X-Amz-Expires=3600&X-Amz-Signature=b7ff4f63c2b0d8218032d8f2afd8ea394cfbfa684c4029d9067127414c55dc4d&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.822Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Altera\u00e7\u00e3o da miss\u00e3o do Reditus\n- PCO\n- Notions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Altera\u00e7\u00e3o da miss\u00e3o do Reditus\n- PCO\n- Notions",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "25/01/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1ySeIKQZ1zbNVP9MPlqWVTXvqoOj8DuY7LTfuQwN1rdQ/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1bhN9a5sqlRv-0WGSJeEP2wvej2h6I5R0uFDyitbmhDM/edit#slide=id.p1",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1bhN9a5sqlRv-0WGSJeEP2wvej2h6I5R0uFDyitbmhDM/edit#slide=id.p1"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "25/01/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "25/01/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/25-01-2022-1cc5d4598c1d4973b9c0b694843ae035",
+    "public_url": "https://instituto-reditus.notion.site/25-01-2022-1cc5d4598c1d4973b9c0b694843ae035"
+  },
+  {
+    "object": "page",
+    "id": "8565b361-13cb-41b8-ad29-6f4e49098f34",
+    "created_time": "2022-02-10T00:08:00.000Z",
+    "last_edited_time": "2022-03-22T20:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-02-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "Reorg.pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce088cf8-12ce-4c47-8f04-9bb08fa76120/220202_Apresentacao_Reorg_Reditus_v4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=bf1147746e7273fec86f043e183d9a1127bfd2288e1db10805bd0cf58b3b8485&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.583Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Paulo Monteiro\n- Reorg",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Paulo Monteiro\n- Reorg",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "09/02/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1SFnJ9Vzkadry_WSdWNpJQ1_WCHrhaNSy2kKdwLoBQ80/edit#"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "09/02/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "09/02/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/09-02-2022-8565b36113cb41b8ad296f4e49098f34",
+    "public_url": "https://instituto-reditus.notion.site/09-02-2022-8565b36113cb41b8ad296f4e49098f34"
+  },
+  {
+    "object": "page",
+    "id": "c1ab8de0-d376-434a-836a-e18ac95af30f",
+    "created_time": "2022-03-03T19:06:00.000Z",
+    "last_edited_time": "2022-03-22T20:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-02-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": []
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- REORG (Recap)\n- Resultados 2021\n- Aviso RCA: Vis\u00e3o Instituto Reditus\n- OKRs 2022.1\n- PCO\n- Avisos Finais:\n\u25a0 Programa de Tutoria\n\u25a0 Formul\u00e1rio PEIR\n\u25a0 Comit\u00ea de diversidade",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- REORG (Recap)\n- Resultados 2021\n- Aviso RCA: Vis\u00e3o Instituto Reditus\n- OKRs 2022.1\n- PCO\n- Avisos Finais:\n\u25a0 Programa de Tutoria\n\u25a0 Formul\u00e1rio PEIR\n\u25a0 Comit\u00ea de diversidade",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "22/02/2022",
+            "type": "external",
+            "external": {
+              "url": "https://drive.google.com/file/d/1JJcYsyjeo0Djkgb2vTkZZ6MNamrQXxzc/view?usp=sharing"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": []
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22/02/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22/02/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/22-02-2022-c1ab8de0d376434a836ae18ac95af30f",
+    "public_url": "https://instituto-reditus.notion.site/22-02-2022-c1ab8de0d376434a836ae18ac95af30f"
+  },
+  {
+    "object": "page",
+    "id": "26d2db8c-2bdf-45b1-8ab4-7d1260d100d2",
+    "created_time": "2022-03-10T00:07:00.000Z",
+    "last_edited_time": "2022-03-22T20:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "57cce5f0-c972-4a63-846c-858862ac875f"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "0cc4c322-7961-4f62-bb04-472c175bff06"
+    },
+    "archived": false,
+    "properties": {
+      "Data": {
+        "id": "%3F%7BJe",
+        "type": "date",
+        "date": {
+          "start": "2022-03-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "P\u00e1ginas Relacionadas": {
+        "id": "AiPD",
+        "type": "files",
+        "files": [
+          {
+            "name": "PEIR.pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9d2afc9-6fe9-4d8e-b671-9c6bb33293a4/PEIR_2022.1_RG.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=f56eb5c7b2977fc4e4310b99ca9f4032626b0492533e4dac5436e5709e72286f&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.582Z"
+            }
+          },
+          {
+            "name": "Dash.pdf",
+            "type": "file",
+            "file": {
+              "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e2bec1e-6099-4b95-948b-35fde59d95f1/Apresentao_Dash_Reditus_%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213613Z&X-Amz-Expires=3600&X-Amz-Signature=5f95becde9ad4abc1c59dfd920d2eeb7f2d26c85d83f138b255f1c9262ac0297&X-Amz-SignedHeaders=host&x-id=GetObject",
+              "expiry_time": "2023-10-04T22:36:12.809Z"
+            }
+          }
+        ]
+      },
+      "Pauta": {
+        "id": "a%5D%5E%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- Recados Gerais do PEIR\n- Apresenta\u00e7\u00e3o do Dashboard\n-Template Atualizado\n- Pesquisa de Relacionamentos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- Recados Gerais do PEIR\n- Apresenta\u00e7\u00e3o do Dashboard\n-Template Atualizado\n- Pesquisa de Relacionamentos",
+            "href": null
+          }
+        ]
+      },
+      "Ata": {
+        "id": "a~Zw",
+        "type": "files",
+        "files": [
+          {
+            "name": "09/03/2022",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/document/d/1oitLyEaO5QLj86xDZwkQ8scIyE155MOwgAaT6ohwtCI/edit"
+            }
+          }
+        ]
+      },
+      "Material de Apresenta\u00e7\u00e3o": {
+        "id": "lD%3Bk",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://docs.google.com/presentation/d/1SOxlbmBvQVeK5qjgiyBYj1B-d5j142pNkDE1M9phz5A/edit#slide=id.g11977e22d62_0_299",
+            "type": "external",
+            "external": {
+              "url": "https://docs.google.com/presentation/d/1SOxlbmBvQVeK5qjgiyBYj1B-d5j142pNkDE1M9phz5A/edit#slide=id.g11977e22d62_0_299"
+            }
+          }
+        ]
+      },
+      "RG": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "09/03/2022",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "09/03/2022",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/09-03-2022-26d2db8c2bdf45b18ab47d1260d100d2",
+    "public_url": "https://instituto-reditus.notion.site/09-03-2022-26d2db8c2bdf45b18ab47d1260d100d2"
+  },
+  {
+    "object": "page",
+    "id": "31250f25-2e04-4d53-8dd8-cf926900f93e",
+    "created_time": "2021-10-20T14:02:00.000Z",
+    "last_edited_time": "2022-03-22T19:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "447bcb9b-dfea-480e-8cc4-5bc0007757d7"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83d\udcac"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "be6e6653-65b9-41c0-852e-372719492901"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rituais",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rituais",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rituais-31250f252e044d538dd8cf926900f93e",
+    "public_url": "https://instituto-reditus.notion.site/Rituais-31250f252e044d538dd8cf926900f93e"
+  },
+  {
+    "object": "page",
+    "id": "13b95564-58ef-43dc-ad58-b43c5f70ca1b",
+    "created_time": "2021-10-20T13:46:00.000Z",
+    "last_edited_time": "2021-10-20T14:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "\ud83e\udd1d"
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "8876a900-8cf6-4e61-83ea-034381b16e07"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nossa Hist\u00f3ria",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nossa Hist\u00f3ria",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Nossa-Hist-ria-13b9556458ef43dcad58b43c5f70ca1b",
+    "public_url": "https://instituto-reditus.notion.site/Nossa-Hist-ria-13b9556458ef43dcad58b43c5f70ca1b"
+  },
+  {
+    "object": "page",
+    "id": "86250b57-6477-4b57-ac5a-49c24522aa4d",
+    "created_time": "2021-10-20T13:54:00.000Z",
+    "last_edited_time": "2021-10-20T14:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "403887f9-d495-4a47-a8a6-2acb776ea9a3"
+    },
+    "cover": null,
+    "icon": {
+      "type": "file",
+      "file": {
+        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72aa9437-efb9-4791-8de6-0a984c43da3c/Captura_de_Tela_2021-10-20_as_10.23.41.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231004T213612Z&X-Amz-Expires=3600&X-Amz-Signature=e2026b16feb50b9b113035a823ce7b9672de84fd8d192a66905922b9e8259544&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "expiry_time": "2023-10-04T22:36:12.586Z"
+      }
+    },
+    "parent": {
+      "type": "block_id",
+      "block_id": "8876a900-8cf6-4e61-83ea-034381b16e07"
+    },
+    "archived": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Quem somos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Quem somos",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Quem-somos-86250b5764774b57ac5a49c24522aa4d",
+    "public_url": "https://instituto-reditus.notion.site/Quem-somos-86250b5764774b57ac5a49c24522aa4d"
+  }
+]
