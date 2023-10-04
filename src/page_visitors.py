@@ -4,6 +4,7 @@ import os
 import time
 import random
 from settings import config
+from utils import load_from_json, save_to_json
 
 headers = {
     "Content-Type": "application/json",
@@ -11,10 +12,7 @@ headers = {
 }
 
 def extract_page_info():
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_dir, 'data', 'pages.json')
-    with open(file_path, 'r') as f:
-        pages = json.load(f)
+    pages = load_from_json('pages.json')
     page_info = []
     for page in pages:
         if page['object'] == 'page':
@@ -40,13 +38,6 @@ def get_page_visitors(page_id):
     response = requests.post(url, headers=headers, json=data)
     return response.json()
 
-def save_to_json(data):
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(current_dir, 'data')
-    file_path = os.path.join(data_dir, 'visitors.json')
-    with open(file_path, 'w') as f:
-        json.dump(data, f, indent=2)
-
 def main():
     page_info = extract_page_info()
     total_pages = len(page_info)
@@ -57,7 +48,7 @@ def main():
         visitors = get_page_visitors(page_id)
         visitors_data[page_id] = visitors
         time.sleep(random.uniform(0.5, 2.0))
-    save_to_json(visitors_data)
+    save_to_json(visitors_data, 'visitors.json')
 
 if __name__ == "__main__":
     main()

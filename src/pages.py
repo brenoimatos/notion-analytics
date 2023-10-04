@@ -3,6 +3,8 @@ import json
 from settings import config
 import os
 
+from utils import save_to_json
+
 headers = {
     "Authorization": f"Bearer {config.TOKEN}",
     "Notion-Version": "2022-06-28"
@@ -31,17 +33,10 @@ def get_all_pages():
         all_pages.extend(response_json['results'])
     return all_pages
 
-def save_pages_to_json(pages):
-    current_dir = os.path.dirname(__file__)
-    data_dir = os.path.join(current_dir, 'data')
-    os.makedirs(data_dir, exist_ok=True)
-    file_path = os.path.join(data_dir, 'pages.json')
-    with open(file_path, 'w') as f:
-        json.dump(pages, f, indent=2)
 
 def main():
     all_pages = get_all_pages()
-    save_pages_to_json(all_pages)
+    save_to_json(all_pages, 'pages.json')
 
 if __name__ == "__main__":
     main()
