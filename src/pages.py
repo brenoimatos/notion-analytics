@@ -1,7 +1,5 @@
 import requests
-import json
 from settings import config
-import os
 
 from utils import save_to_json
 
