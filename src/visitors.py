@@ -10,18 +10,21 @@ headers = {
     "Cookie": f"{config.COOKIE}"
 }
 
-def extract_page_info():
-    pages = load_from_json('pages.json')
+def extract_page_info(filter_pages_with_title: bool):
+    pages = load_from_json('parsed/parsed_pages.json')
     page_info = []
     for page in pages:
-        if page['object'] == 'page':
-            page_id = page['id']
-            # Usando o método get para evitar KeyError
-            title_property = page['properties'].get('title', {})
-            title_list = title_property.get('title', [])
-            page_title = title_list[0]['plain_text'] if title_list else 'Sem título'
-            page_url = page.get('url', 'Sem URL')  # Obtendo a URL
-            page_info.append((page_id, page_title, page_url))  # Incluindo a URL na tuple
+        page_id = page['id']
+        page_title = page.get('page_title', None)
+        alternative_title = page.get('alternative_title', 'Sem título')
+        page_url = page.get('url', 'Sem URL')
+        
+        # Decide se deve incluir a página com base no page_title
+        if filter_pages_with_title and page_title is None:
+            continue
+
+        display_title = page_title if page_title is not None else alternative_title
+        page_info.append((page_id, display_title, page_url))
     return page_info
 
 def get_page_visitors(page_id):
@@ -36,16 +39,17 @@ def get_page_visitors(page_id):
     response = requests.post(url, headers=headers, json=data)
     return response.json()
 
-def main():
+def main(filter_pages_with_title: bool):
     start_time = datetime.datetime.now()
     print(f"Start time: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
 
-    page_info = extract_page_info()
+    page_info = extract_page_info(filter_pages_with_title)
     total_pages = len(page_info)
     print(f"Total pages: {total_pages}")
+
     visitors_data = {}
-    for index, (page_id, page_title, page_url) in enumerate(page_info, start=1):
-        print(f"{index}/{total_pages}: {page_id} - {page_title} - {page_url}")
+    for index, (page_id, display_title, page_url) in enumerate(page_info, start=1):
+        print(f"{index}/{total_pages}: {page_id} - {display_title} - {page_url}")
         visitors = get_page_visitors(page_id)
         visitors_data[page_id] = visitors
         time.sleep(random.uniform(0.5, 2.0))
@@ -56,7 +60,7 @@ def main():
     print(f"End time: {end_time.strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Duration: {duration}")
 
-    save_to_json(visitors_data, 'visitors.json')
+    save_to_json(visitors_data, f'raw/raw_visitors_filtered_{filter_pages_with_title}.json')
 
 if __name__ == "__main__":
-    main()
+    main(filter_pages_with_title=True)
