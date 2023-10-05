@@ -1,0 +1,5081 @@
+{
+  "30c0c3ff-265e-4d09-9e58-f21361e5200d": [
+    {
+      "ds": "2022-08-02",
+      "unique_views": 5,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-08-03",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-08-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-15",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-16",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-08-17",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-08-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-24",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-08-25",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-27",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-31",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-09-06",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-09-07",
+      "unique_views": 4,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-09-08",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-09-09",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-09-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-13",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-09-14",
+      "unique_views": 4,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-09-15",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-09-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-22",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-09-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 3,
+      "total_views": 7
+    },
+    {
+      "ds": "2022-09-28",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-09-29",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-09-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-02",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-03",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-10-04",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-05",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-10-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-09",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-10",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-10-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-13",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-10-14",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-10-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-16",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-10-17",
+      "unique_views": 6,
+      "total_views": 10
+    },
+    {
+      "ds": "2022-10-18",
+      "unique_views": 4,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-10-20",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-10-24",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-10-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-30",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-11-01",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-02",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 8,
+      "total_views": 13
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-11-09",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-10",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-11-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-20",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-21",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-11-22",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2022-11-23",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-25",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 3,
+      "total_views": 15
+    },
+    {
+      "ds": "2022-12-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 3,
+      "total_views": 8
+    },
+    {
+      "ds": "2022-12-14",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-15",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-19",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 5,
+      "total_views": 12
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-28",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-05",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-01-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 11,
+      "total_views": 20
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 8,
+      "total_views": 20
+    },
+    {
+      "ds": "2023-01-11",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-01-13",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-16",
+      "unique_views": 5,
+      "total_views": 12
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 6,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 5,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-01-20",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-01-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-24",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 5,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-01-27",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-31",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-02-01",
+      "unique_views": 5,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-02-02",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-06",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 4,
+      "total_views": 19
+    },
+    {
+      "ds": "2023-02-08",
+      "unique_views": 7,
+      "total_views": 17
+    },
+    {
+      "ds": "2023-02-09",
+      "unique_views": 10,
+      "total_views": 15
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 2,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-02-11",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-02-14",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-02-15",
+      "unique_views": 7,
+      "total_views": 16
+    },
+    {
+      "ds": "2023-02-16",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-17",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-02-22",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-02-23",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-24",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-25",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-27",
+      "unique_views": 5,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-03-01",
+      "unique_views": 2,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-03-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 5,
+      "total_views": 14
+    },
+    {
+      "ds": "2023-03-07",
+      "unique_views": 7,
+      "total_views": 14
+    },
+    {
+      "ds": "2023-03-08",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-03-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 8,
+      "total_views": 14
+    },
+    {
+      "ds": "2023-03-11",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-03-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-14",
+      "unique_views": 4,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-03-15",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-03-17",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-19",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-20",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-21",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-22",
+      "unique_views": 1,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-03-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-26",
+      "unique_views": 5,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-03-27",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-03-28",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-03-29",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-03-31",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-03",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-04",
+      "unique_views": 6,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-04-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-06",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 53
+    },
+    {
+      "ds": "2023-04-08",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-04-10",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-11",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-13",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 2,
+      "total_views": 15
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 3,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-04-23",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-24",
+      "unique_views": 3,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 4,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-04-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-27",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-02",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-05-03",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 2,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-05-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-11",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-15",
+      "unique_views": 5,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 5,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-05-17",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-20",
+      "unique_views": 1,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-05-21",
+      "unique_views": 1,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-05-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-24",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-26",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 2,
+      "total_views": 12
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 5,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-05-31",
+      "unique_views": 6,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-06-01",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-06",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-06-12",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 5,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-06-15",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-23",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-06-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-28",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-30",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-03",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-10",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 3,
+      "total_views": 16
+    },
+    {
+      "ds": "2023-07-12",
+      "unique_views": 5,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-07-13",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 5,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 4,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-07-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-20",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-07-25",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-26",
+      "unique_views": 4,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-07-28",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 5,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 3,
+      "total_views": 13
+    },
+    {
+      "ds": "2023-08-02",
+      "unique_views": 4,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-04",
+      "unique_views": 4,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-08-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-07",
+      "unique_views": 2,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 5,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 3,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-08-10",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-14",
+      "unique_views": 2,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 5,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-16",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 4,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-08-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-30",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-03",
+      "unique_views": 1,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-09-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-06",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-08",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-12",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-13",
+      "unique_views": 4,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-09-14",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-17",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-19",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-21",
+      "unique_views": 4,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-24",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-25",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-09-26",
+      "unique_views": 4,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-09-27",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 4,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-09-29",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-01",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 6,
+      "total_views": 24
+    },
+    {
+      "ds": "2023-10-03",
+      "unique_views": 11,
+      "total_views": 13
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 6,
+      "total_views": 17
+    },
+    {
+      "ds": "2023-10-05",
+      "unique_views": 6,
+      "total_views": 9
+    }
+  ],
+  "8f171f2a-7a6c-4a00-9a5f-dd32f979bc36": [
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-17",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-27",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-08-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 2,
+      "total_views": 8
+    },
+    {
+      "ds": "2022-10-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-11-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-16",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-26",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-02-01",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-02",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-02-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-15",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-27",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-03-02",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-03-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-08",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-03-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-27",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 15
+    },
+    {
+      "ds": "2023-04-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 2,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-05-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-05-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-17",
+      "unique_views": 2,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-05-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-06-01",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-27",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 2,
+      "total_views": 16
+    },
+    {
+      "ds": "2023-09-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-10-03",
+      "unique_views": 3,
+      "total_views": 5
+    }
+  ],
+  "8dc3c941-8c2d-4a7f-9591-e34161292b9a": [
+    {
+      "ds": "2023-09-24",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "4647b064-27c2-4ca1-b868-fea38ea93231": [
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-03-12",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-19",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-25",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "4c366b95-9903-4f4e-b86e-3468f724460a": [
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 2,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-03-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-04-08",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 5
+    }
+  ],
+  "f8d52831-7264-4215-bea9-f7b69a80b70c": [
+    {
+      "ds": "2022-08-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-09-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-02",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 3,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-20",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-02-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-04",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-01",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-23",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-12",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 25
+    },
+    {
+      "ds": "2023-07-25",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 2,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-24",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-08-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-19",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-05",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "df06176e-312c-4cc6-ac92-4f65665b6e4c": [
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-09-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-11",
+      "unique_views": 1,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-12",
+      "unique_views": 1,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 2,
+      "total_views": 2
+    }
+  ],
+  "b6cd0ad5-1006-4cef-b40e-3be4291003df": [
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-09-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-14",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-10-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-09",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-28",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-01-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 13
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 2,
+      "total_views": 13
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 2,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-05-15",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 2,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-05-24",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-06-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-06",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-23",
+      "unique_views": 3,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-06-26",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-25",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 4,
+      "total_views": 9
+    },
+    {
+      "ds": "2023-08-16",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 3,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-31",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-05",
+      "unique_views": 3,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-12",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-13",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-27",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-09-29",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 4,
+      "total_views": 20
+    },
+    {
+      "ds": "2023-10-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 4,
+      "total_views": 13
+    },
+    {
+      "ds": "2023-10-05",
+      "unique_views": 3,
+      "total_views": 18
+    }
+  ],
+  "7e00edbc-62ca-4395-afe3-a6405b7193fe": [
+    {
+      "ds": "2023-01-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "6a829450-980d-4ee0-aaf0-94842c7f0a99": [
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-17",
+      "unique_views": 1,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-03",
+      "unique_views": 2,
+      "total_views": 2
+    }
+  ],
+  "d5bacf0b-113e-4fc5-93e7-399e50ec9241": [
+    {
+      "ds": "2022-08-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 2,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-08",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "4b0a4052-3f38-4b6c-a353-142ee7216af4": [
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 3
+    }
+  ],
+  "5d9af26d-6650-41f9-9a1a-4ce400ab3f11": [
+    {
+      "ds": "2022-10-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-17",
+      "unique_views": 3,
+      "total_views": 5
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 4,
+      "total_views": 7
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-15",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 5,
+      "total_views": 7
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-14",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-11",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-24",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-06-06",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-06-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 3,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-10-05",
+      "unique_views": 1,
+      "total_views": 2
+    }
+  ],
+  "7a9e434a-0a35-4bde-8381-2d85b410cf13": [
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 3
+    }
+  ],
+  "c27d5e51-7571-4f30-865f-ee8fe38c94d6": [
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-17",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-09-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 10
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-10-03",
+      "unique_views": 3,
+      "total_views": 3
+    }
+  ],
+  "dc583317-5b61-49f1-9b13-eeadcb062355": [
+    {
+      "ds": "2022-09-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "2721f5a8-2ea1-4342-9327-cd4a1fc632f3": [
+    {
+      "ds": "2022-08-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-24",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-01",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-02-02",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-02-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-15",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-27",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 2,
+      "total_views": 5
+    }
+  ],
+  "e057be78-0d9b-4564-86e8-ef070fa7c458": [
+    {
+      "ds": "2022-10-18",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-25",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "1ff59697-943d-461f-a676-76705c624dc0": [
+    {
+      "ds": "2022-08-03",
+      "unique_views": 4,
+      "total_views": 7
+    },
+    {
+      "ds": "2022-08-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 1,
+      "total_views": 2
+    }
+  ],
+  "8d2959c1-d987-4125-bee7-3e9225bee1ce": [
+    {
+      "ds": "2022-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-22",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-08-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-27",
+      "unique_views": 1,
+      "total_views": 25
+    },
+    {
+      "ds": "2022-09-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-11",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-05",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-21",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-08-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-05",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-25",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 2,
+      "total_views": 4
+    }
+  ],
+  "26d96bde-c1d3-4c86-a10a-60bd8a40230a": [
+    {
+      "ds": "2022-08-19",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-17",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2022-12-13",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-12-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-21",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-09",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-08",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-02-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-11",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-04",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-21",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-10-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-05",
+      "total_views": 2,
+      "unique_views": 1
+    }
+  ],
+  "dce4edc0-3ff6-4a2e-80e9-9bc0e4f4d6ac": [
+    {
+      "ds": "2022-08-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-22",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-08-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-14",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-22",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-07",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-09-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "6d5d566a-8f79-40df-8ef7-9cff84047fe5": [
+    {
+      "ds": "2022-08-09",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-11",
+      "unique_views": 2,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-21",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-09-13",
+      "unique_views": 1,
+      "total_views": 2
+    }
+  ],
+  "f97cd685-4968-406e-903e-9807a382ee48": [
+    {
+      "ds": "2022-11-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-01-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-31",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-04-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-30",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 5
+    },
+    {
+      "ds": "2023-09-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "31250f25-2e04-4d53-8dd8-cf926900f93e": [
+    {
+      "ds": "2022-08-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2022-12-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-10",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 11
+    },
+    {
+      "ds": "2023-04-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-17",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-18",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-04-25",
+      "unique_views": 1,
+      "total_views": 4
+    },
+    {
+      "ds": "2023-05-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-13",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-16",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-05-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-14",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-20",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-17",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-18",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-24",
+      "unique_views": 2,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-07-31",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-01",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-02",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-03",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-08",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 6
+    },
+    {
+      "ds": "2023-09-24",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-28",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-02",
+      "unique_views": 1,
+      "total_views": 8
+    },
+    {
+      "ds": "2023-10-05",
+      "unique_views": 1,
+      "total_views": 2
+    }
+  ],
+  "13b95564-58ef-43dc-ad58-b43c5f70ca1b": [
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-05",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-06-06",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-07-11",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ],
+  "86250b57-6477-4b57-ac5a-49c24522aa4d": [
+    {
+      "ds": "2022-08-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-08-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-09-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-16",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-10-23",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-03",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-11-30",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2022-12-12",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-01-10",
+      "unique_views": 1,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-02-10",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-25",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-02-26",
+      "unique_views": 2,
+      "total_views": 2
+    },
+    {
+      "ds": "2023-03-06",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-15",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-03-19",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-04-07",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-05-29",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-07-27",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-08-09",
+      "unique_views": 1,
+      "total_views": 3
+    },
+    {
+      "ds": "2023-08-22",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-09-04",
+      "unique_views": 1,
+      "total_views": 1
+    },
+    {
+      "ds": "2023-10-04",
+      "unique_views": 1,
+      "total_views": 1
+    }
+  ]
+}
