@@ -21,7 +21,7 @@ def search_pages(cursor=None):
     response = requests.post("https://api.notion.com/v1/search", headers=headers, json=data)
     return response.json()
 
-# TODO check why its not getting all pages
+# TODO its still not getting all pages. last time was 207, but missing ones like Radar-geral-de-execu-o-6fde7945f49d437a9ff2c2cf5ada6d8e
 def get_all_pages():
     all_pages = []
     response_json = search_pages()
@@ -34,7 +34,7 @@ def get_all_pages():
 
 def main():
     all_pages = get_all_pages()
-    save_to_json(all_pages, 'pages.json')
+    save_to_json(all_pages, 'raw/raw_pages.json')
 
 if __name__ == "__main__":
     main()
