@@ -1,4 +1,5 @@
 import datetime
+from typing import List
 import requests
 import time
 import random
@@ -11,7 +12,7 @@ headers = {
 }
 
 def extract_page_info(filter_pages_with_title):
-    pages = load_from_json('parsed/parsed_pages.json')
+    pages: List[dict] = load_from_json('parsed/parsed_pages.json')
     page_info = []
     for page in pages:
         page_id = page['id']
@@ -23,7 +24,8 @@ def extract_page_info(filter_pages_with_title):
             continue
 
         display_title = page_title if page_title is not None else alternative_title
-        page_info.append((page_id, display_title, page_url))
+        if display_title:
+            page_info.append((page_id, display_title, page_url))
     return page_info
 
 def get_page_analytics(page_id):
@@ -33,6 +35,7 @@ def get_page_analytics(page_id):
         "spaceId": "925b7f61-5287-4683-bf60-db4f84566eba"
     }
     response = requests.post(url, headers=headers, json=data)
+    response.raise_for_status()
     return response.json()
 
 def main(filter_pages_with_title):
@@ -45,10 +48,19 @@ def main(filter_pages_with_title):
 
     analytics_data = {}
     for index, (page_id, display_title, page_url) in enumerate(page_info, start=1):
+        # Sleep to avoid rate limit and not get blocked. Higher if its all pages, because its a lot.
+        sleep_time = random.uniform(0.5, 2.0)
+        if not filter_pages_with_title:
+            sleep_time *= 2
+        time.sleep(sleep_time)
         print(f"{index}/{total_pages}: {page_id} - {display_title} - {page_url}")
-        analytics = get_page_analytics(page_id)
+        try:
+            analytics = get_page_analytics(page_id)
+        except Exception as e:
+            print(f"Error for {page_id} - {display_title} {e}")
+            continue
         analytics_data[page_id] = analytics
-        time.sleep(random.uniform(0.5, 2.0))
+        
 
     end_time = datetime.datetime.now()
     duration = end_time - start_time
