@@ -1,2 +1,2 @@
-# notion-analytics
-A project to get page views from all pages
+# Notion Analytics
+In response to Notion's lack of overarching analytics capabilities for a macroscopic view across all pages, I have developed a robust crawler. This tool harnesses both Notion's public and internal API to harvest analytics data for every page, capturing both unique and total views. The generated data sets facilitate a thorough analysis, empowering users to discern the popularity and performance trends of each page over time. Through this crawler, a granular insight into page traffics is now attainable, enabling an informed strategy to enhance page performance based on the derived analytical observations. This project not only bridges the analytics gap in Notion but also provides a foundation for continuous performance monitoring and analysis, ensuring an optimized user engagement and an enhanced operational strategy.
